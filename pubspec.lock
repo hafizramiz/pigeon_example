@@ -220,7 +220,7 @@ packages:
     source: hosted
     version: "1.8.3"
   pigeon:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: pigeon
       sha256: ba3727eabe6c23876605d05062de35ab861227ff87a77379898ecd0b8951ef49
